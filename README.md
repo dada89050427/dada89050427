@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dada
-- 👀 I’m interested in any new things around world.
+- 👀 I’m interested in any new things around the world.
 - 🌱 I’m currently learning Python and other languages.
 
 <!---
