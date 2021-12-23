@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Dada
-- 👀 I’m interested in any new things around the world.
-- 🌱 I’m currently learning Python and other languages.
+- 👋 Hi, I’m Elena.
+- 🌱 I’m currently learning Python.
 
 <!---
 dada89050427/dada89050427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
